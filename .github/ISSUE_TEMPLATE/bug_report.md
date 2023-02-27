@@ -19,6 +19,9 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
+**Error Info & Logs
+Please add the error message as well as logs if you have access to any.
+
 **Expected behavior**
 
 A clear and concise description of what you expected to happen.
