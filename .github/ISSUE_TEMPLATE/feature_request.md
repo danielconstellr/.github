@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 title: ''
 labels: ''
 assignees: ''
-ticket: Link to Epic or Ticket on an outside platform
+ticket: Link to Epic or Ticket on an outside of GitHub
 
 ---
 
